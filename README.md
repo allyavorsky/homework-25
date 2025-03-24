@@ -1,1 +1,1 @@
-# homework-25
+# Homework 25 | JavaScript Essentials: DOM Manipulation and Data Storage Techniques
